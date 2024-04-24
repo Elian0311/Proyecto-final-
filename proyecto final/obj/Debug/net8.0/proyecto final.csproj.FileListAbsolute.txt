@@ -1,0 +1,14 @@
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.exe
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.deps.json
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.runtimeconfig.json
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.dll
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\bin\Debug\net8.0\proyecto final.pdb
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.AssemblyInfoInputs.cache
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.AssemblyInfo.cs
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.dll
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\obj\Debug\net8.0\refint\proyecto final.dll
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.pdb
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\obj\Debug\net8.0\proyecto final.genruntimeconfig.cache
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\proyecto final\proyecto final\obj\Debug\net8.0\ref\proyecto final.dll
